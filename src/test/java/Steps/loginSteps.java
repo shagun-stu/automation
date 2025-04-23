@@ -12,6 +12,7 @@ public class loginSteps {
 
     @When("user enters valid username and password")
     public void user_enters_valid_username_and_password() throws Exception{
+        System.out.println("user is on login page");
         // Add logic to enter username & password
     }
 
